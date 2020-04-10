@@ -1,3 +1,4 @@
 # hello-world
 Learner
-echo "This is just a beginning" >> /tmp/begin.txt
+Hello All, This is just for learning purpose.
+Just a trials to learn jenkins
